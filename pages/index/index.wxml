@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="img_box">
+  <img src="{{src}}"/>
+</view>
